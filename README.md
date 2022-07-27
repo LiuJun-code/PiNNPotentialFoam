@@ -14,3 +14,15 @@ Our solution for the physics-based-dl part of [OpenFOAM Machine Learning Hackath
  
  The training data are from the cylinder case of potentialFoam. 
 
+**Data driven ML**
+
+*Phi*
+
+![phi](https://user-images.githubusercontent.com/4444574/181273335-7de3fac4-1114-48d8-9c0d-7015d7e0d479.png)
+
+*grad_Phi*
+
+![phi_grad](https://user-images.githubusercontent.com/4444574/181273424-540eff2f-9971-4a70-a657-38bbe0484eba.png)
+
+*U*
+![u](https://user-images.githubusercontent.com/4444574/181273474-21f698ea-0614-46dd-9995-13f1e92514cf.png)
