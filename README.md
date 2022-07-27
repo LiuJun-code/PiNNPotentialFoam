@@ -1,6 +1,6 @@
 # pinnPotentialFoam solution and test case 
 
-**Contributor:** Jun Liu (liu@mma.tu-darmstadt.de), Guoliang Chai (guoliangchai@stu.xjtu.edu.cn) 
+**Hackers squad of team 2:** Jun Liu (liu@mma.tu-darmstadt.de), Guoliang Chai (guoliangchai@stu.xjtu.edu.cn) 
 
 Our solution for the physics-based-dl part of [OpenFOAM Machine Learning Hackathon](https://github.com/OFDataCommittee/OFMLHackathon). We adapted the Neural Network (NN) $\Psi(x,\ y,\ z,\ \theta)$ to map the cell center field $\mathbf{x}= (x,\ y,\ z)$ to the output vector field $\mathbf{o}= (\phi,\ u_x,\ u_y,\ u_z)$, where $\phi$ is the velocity potential and $\mathbf{u}=(\ u_x,\ u_y,\ u_z)$ is the velocity. Different losses are tested:
 
